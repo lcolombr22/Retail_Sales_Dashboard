@@ -15,4 +15,4 @@ Files Included:
 - outputs/retail_sales_dashboard.xlsx → final Excel dashboard  
 - data/superstore_dataset.csv→ raw dataset  
 
-Author:Louis Colombrita
+Author: Louis Colombrita
